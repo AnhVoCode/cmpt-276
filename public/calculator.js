@@ -26,7 +26,6 @@ function addRow(){
     var percent = row.insertCell(4);
     percent.id ='a'+ row_count;
     percent.className = "percent";
-   
 }
 
 function getMean(){
